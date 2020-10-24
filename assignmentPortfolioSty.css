@@ -1,7 +1,38 @@
 /* Eli Castillo Portfolio Style Sheet*/
 
-body{background-color: burlywood;}
+body{background-color: tan;}
 
-h1 {color: whitesmoke;}
+h1 {color: blue;}
+h1 {font-family: monospace;}
 
-p {color: darkcyan;}
+p1 {font-family: fantasy;}
+p1 {color: seagreen;}
+p1{text-transform: uppercase;}
+
+p2 {color: seagreen;}
+p2{font-family: fantasy;}
+p2{text-transform: uppercase;}
+
+p3 {color: seagreen;}
+p3{font-family: fantasy;}
+p3{text-transform: uppercase;}
+
+p4 {color: seagreen;}
+p4{font-family: fantasy;}
+p4{text-transform: uppercase;}
+
+p5 {color: seagreen;}
+p5{font-family: fantasy;}
+p5{text-transform: uppercase;}
+
+p6 {color: seagreen;}
+p6{font-family: fantasy;}
+p6{text-transform: uppercase;}
+
+p7 {color: seagreen;}
+p7{font-family: fantasy;}
+p7{text-transform: uppercase;}
+
+p8 {color: seagreen;}
+p8{font-family: fantasy;}
+p8{text-transform: uppercase;}
